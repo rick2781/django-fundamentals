@@ -1,3 +1,3 @@
 # django-fundamentals
 
-Repository to help my Udemy course students
+Repository to help studends from my Udemy Course
